@@ -30,7 +30,7 @@ I'm an aspiring cyber security professional. This is a place for displaying smal
 Clone the project
 
 ```bash
-  git clone https://github.com/knn8894/AI_Quiz_Generator.git
+  git clone https://github.com/knn8894/GeminiQuizGen.git
 ```
 
 Go to the project directory
