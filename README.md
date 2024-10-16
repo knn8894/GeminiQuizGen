@@ -22,9 +22,9 @@ I'm an aspiring cyber security professional. This is a place for displaying smal
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/knn8894/AI_Quiz_Generator/9d7d7dee671f6521cd515f3adb5aab127aee38ac/workflow2.png)
+![image](https://github.com/user-attachments/assets/cfba63ef-1ed0-4d98-aece-a92d17e1d6f5)
+![image](https://github.com/user-attachments/assets/15ccf01f-fe28-460f-a298-d2e942b747dd)
 
-![App Screenshot](https://github.com/knn8894/AI_Quiz_Generator/blob/main/workflow.png?raw=true)
 ## Run Locally
 
 Clone the project
